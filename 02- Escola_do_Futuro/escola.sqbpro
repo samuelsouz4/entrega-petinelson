@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="D:/DS_SESI/BANCO_DADOS/.entrega/02- Escola_do_Futuro/escola.db" readonly="0" foreign_keys="" case_sensitive_like="" temp_store="" wal_autocheckpoint="" synchronous=""/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="2404"/><column_width id="4" width="0"/></tab_structure><tab_browse><current_table name="0,0:"/><default_encoding codec=""/><browse_table_settings/></tab_browse><tab_sql><sql name="SQL 1">INSERT INTO tb_matricula (aluno_id, curso_id, numero_matricula, n1, n2, n3, n4)
+VALUES
+(1, 1, 'M101', 8.5, 7.5, 9.0, 8.0),
+(2, 2, 'M102', 9.0, 8.0, 9.5, 8.5),
+(3, 3, 'M103', 7.5, 8.0, 7.0, 8.0);
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
